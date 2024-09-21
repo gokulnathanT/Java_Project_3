@@ -74,7 +74,7 @@ public class Bus_Booking {
                     int n = sc.nextInt();
                     switch (n) {
                         case 1:
-                            System.out.println("Start Booking !");
+                            System.out.println("Start Booking !!!");
                             Booking book = new Booking();
                             System.out.println("Enter name of passenger : ");
                             book.passengerName = sc.next();
